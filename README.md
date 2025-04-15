@@ -1,5 +1,5 @@
 # **Scientific Calculator**
-
+![alt text](image.png)
 ## 📌 Overview
 
 A modern scientific calculator application built with Python and Tkinter, featuring:
